@@ -1,0 +1,3 @@
+[submodule "debian-lithium-main"]
+	path = debian-lithium-main
+	url = https://github.com/kobk372/debian-lithium-main.git
